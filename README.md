@@ -1,2 +1,2 @@
 # poc_repository_pattern_efcore
-Utilizando Repository Pattern com Entity Framework Core.
+POC - Prova de Conceito - Utilizando Repository Pattern com Entity Framework Core.
